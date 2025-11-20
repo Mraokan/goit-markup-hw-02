@@ -47,8 +47,12 @@ ul {
   background-color: #fff;
 }
 
-.main-logo-auxiliary {
+.main-logo-dark {
   color: #2e2f42;
+}
+
+.main-logo-light {
+  color: #f4f4fd;
 }
 
 .nav-link {
@@ -122,4 +126,14 @@ ul {
 
 .our-team {
   background-color: #f4f4fd;
+}
+
+.main-footer {
+  background-color: #2e2f42;
+}
+
+.para-light {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
