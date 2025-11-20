@@ -13,6 +13,24 @@ ul {
   list-style-type: none;
 }
 
+.header-2 {
+  font-family: "Roboto", sans-serif;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  font-weight: 700;
+  color: #2e2f42;
+}
+
+.header-3 {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  color: #2e2f42;
+}
+
 .main-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
