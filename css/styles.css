@@ -20,6 +20,8 @@ ul {
   letter-spacing: 0.02em;
   font-weight: 700;
   color: #2e2f42;
+  text-align: center;
+  text-transform: capitalize;
 }
 
 .header-3 {
@@ -39,6 +41,10 @@ ul {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+}
+
+.main-list-item {
+  background-color: #fff;
 }
 
 .main-logo-auxiliary {
@@ -112,4 +118,8 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+
+.our-team {
+  background-color: #f4f4fd;
 }
