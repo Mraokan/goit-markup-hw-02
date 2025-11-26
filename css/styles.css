@@ -13,7 +13,7 @@ ul {
   list-style-type: none;
 }
 
-.header-2 {
+.heading-2 {
   font-family: "Roboto", sans-serif;
   font-size: 36px;
   line-height: 1.11;
@@ -24,7 +24,7 @@ ul {
   text-transform: capitalize;
 }
 
-.header-3 {
+.heading-3 {
   font-family: "Roboto", sans-serif;
   font-size: 20px;
   line-height: 1.2;
@@ -88,7 +88,7 @@ ul {
   background-color: #2e2f42;
 }
 
-.hero-header {
+.hero-heading {
   color: #fff;
   font-size: 56px;
   font-weight: 700;
@@ -117,7 +117,7 @@ ul {
   display: none;
 }
 
-.main-para {
+.main-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -132,7 +132,7 @@ ul {
   background-color: #2e2f42;
 }
 
-.para-light {
+.text-light {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
